@@ -4,9 +4,25 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-the-big-picture/blob/master/LICENSE)
  */
 body {
-  background-image: url('ff14_v5.jpg') no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
+  background: linear-gradient(rgba(255,255,255,.1), rgba(255,255,255,.1)), url('ff14_v5.jpg');
+  background-size: 1566px 968px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  height:850px;
+
+}
+
+.bottomleft {
+  text-align: left center;
+  color: white;
+  text-shadow: 2px 2px #0080ff;
+  position: absolute;
+  top: 148px;
+  left: -100px;
+}
+
+.trailer {
+  position: relative;
+  top: 290px;
+  left: 140px;
 }
