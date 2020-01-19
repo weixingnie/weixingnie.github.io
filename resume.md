@@ -1,4 +1,4 @@
-# Weixing Nie
+# Weixing Nie <h1>
 
 1234 Main St., City, State 12345
 
@@ -10,48 +10,39 @@ http://www.example.com
 
 http://www.linkedin.com/in/yourname
 
-# Summary
+## Summary <h2>
 
 Quick Summary (not objective) specifically highlighting why you qualify for the job.
 
-# Work Experience (only last 10 years)
+## Work Experience (only last 10 years) <h3>
 
-## University Name 1 (City, State)
+## University of Washington (Seattle, WA)
+![UW](https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2019/09/16102313/aerial-quad-TILE.jpg)
 
-* [University 1][] description, particularly if not well-known.*
+* [University of Washignton](https://www.washington.edu/) description, particularly if not well-known.*
 
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-## University Name 2 (City, State)
-*[University 2][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+** Student Researcher ** (2018-09 - 2020-09)
+> In INFO Gamer Lab
 
 Summary of your role
+- **Data Collection**
+   * Manual data Collection
+   * API Usage
+   * Data Cleaning
+- **Programming**
+  * Python
+  * R
+  * JavaScript
 
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-## University Name 3 (City, State)
-* [University 3][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+## Tencent Researcher (Shenzhen, Guangdong)
+* [Tencent Researcher](https://gouhuo.qq.com/content/detail/0_20190921161937_mKrMteSBF) --- Videogame Researchers
+![Tencent](https://www.cryptonewsz.com/wp-content/uploads/2019/12/Tencent-plans-to-create-digital-currency-research-team.png)
+** Researcher (2019-06 - 2020-05)
 
 Summary of your role
-
-- Accomplishment
-- Accomplishment
-- Accomplishment
-- Accomplishment
+- News reporter
+- Project Research
+- [User Research](https://en.wikipedia.org/wiki/User_research)
 
 
 [University 1]: http://www.univ1.edu
