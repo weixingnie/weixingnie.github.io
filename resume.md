@@ -34,7 +34,15 @@ Summary of your role
   * R
   * JavaScript
 
-### Tencent Researcher (Shenzhen, Guangdong)
+** Tencent Game Designer ** (2020-07 - continue)
+  > Tencent Shenzhen
+  Summary of your role
+  - **Internship**
+     * Boss Fight Design
+     * Level Design
+     * Scene Director
+
+#### Tencent Researcher (Shenzhen, Guangdong)
 * [Tencent Researcher](https://gouhuo.qq.com/content/detail/0_20190921161937_mKrMteSBF) --- Videogame Researchers
 ![Tencent](https://www.cryptonewsz.com/wp-content/uploads/2019/12/Tencent-plans-to-create-digital-currency-research-team.png)
 ** Researcher (2019-06 - 2020-05)
